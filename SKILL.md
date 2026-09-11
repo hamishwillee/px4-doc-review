@@ -13,6 +13,7 @@ This is prose review, not code review: the deliverable is a report of issues wit
 Never modify a file in the repository under review, and never run `gh pr comment`, `gh pr review`, or any other write operation.
 The one file you may create is the report itself, only when the reviewer asks for it and only outside the clone.
 Your output is the report; the reviewer posts it to GitHub themselves, after reading it.
+You will offer to open the report in an editor, such as VSCode if this is supported. 
 
 ## Workflow
 
